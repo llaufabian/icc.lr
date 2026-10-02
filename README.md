@@ -15,7 +15,7 @@
 **Problema:** Todos os dias, objetos perdidos no campus da UFRPE, das mais diversas naturezas, ficam espalhados entre
 portarias, secretarias e grupos de mensagem, e raramente voltam ao dono.
 
-**Solução proposta:** <descrevam em 3 a 5 linhas o que a aplicação faz>
+**Solução proposta:** Por isso, com a orientação do nosso professor, e com os materiais complementares disponíveis [aqui](https://yokoapps.com.br/computacao), deicidimos fazer varias coisas legais :3
 
 **Escopo:** <o que o sistema faz e o que ele NÃO faz. Ex.: não faz entregas>
 ## 3. Atores (usuários do sistema)
