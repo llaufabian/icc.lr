@@ -47,12 +47,14 @@
 
 ## Requisitos não funcionais
 
-* **RNF01 (Usabilidade):** O sistema deve funcionar adequadamente em celular e computador, sendo testado em telas de 360 px a 1920 px.
-* **RNF02 (Desempenho):** A busca deve responder rápido, entregando o resultado em até 2 segundos.
-* **RNF03 (Segurança):** O banco de dados deve proteger as credenciais de acesso e os comprovantes de propriedade submetidos.
-* **RNF04 (Privacidade/LGPD):** Não exibir dados pessoais de terceiros na interface pública.
-* **RNF05 (Acessibilidade):** A interface deve ser compatível com diretrizes básicas de acessibilidade web.
-* **RNF06 (Disponibilidade):** A plataforma deve permanecer online com alta taxa de uptime.
+| Código | Categoria | Requisito | Como medir |
+| :--- | :--- | :--- | :--- |
+| **RNF01** | Usabilidade | O sistema deve funcionar adequadamente em celular e computador. | Testar em telas de 360 px a 1920 px. |
+| **RNF02** | Desempenho | A busca deve responder rápido. | Entregar o resultado da busca em até 2 segundos. |
+| **RNF03** | Segurança | O banco de dados deve proteger as credenciais de acesso e os comprovantes de propriedade. | Validação de criptografia no banco de dados e testes de intrusão/vulnerabilidade. |
+| **RNF04** | Privacidade (LGPD) | Não exibir dados pessoais de terceiros na interface pública. | Auditoria das visualizações públicas para garantir a ocultação ou mascaramento de dados sensíveis. |
+| **RNF05** | Acessibilidade | A interface deve ser compatível com diretrizes básicas de acessibilidade web. | Validação das interfaces utilizando ferramentas de teste de acessibilidade (ex: validadores WCAG e leitores de tela). |
+| **RNF06** | Disponibilidade | A plataforma deve permanecer online com alta taxa de uptime. | Monitoramento contínuo do servidor para garantir o cumprimento do SLA estabelecido (ex: 99,9% de uptime). |
 
 ---
 
