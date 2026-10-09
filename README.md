@@ -21,10 +21,10 @@ portarias, secretarias e grupos de mensagem, e raramente voltam ao dono.
 ## 3. Atores (usuários do sistema)
 | Ator | Descrição | O que precisa fazer |
 |------|-----------|---------------------|
-| Estudante | Aluno com matrícula ativa | Procurar objetos, registrar perdas |
-| Servidor | Professor ou técnico | Procurar objetos, registrar perdas |
-| Ponto de guarda | Portaria, biblioteca ou secretaria que guarda o objeto | Confirmar a entrega, dar baixa no sistema |
-| Administrador | Coordenador de curso | <...> |
+| Estudante | Aluno com matrícula ativa | Procurar objetos, registrar perdas. |
+| Servidor | Professor ou técnico | Procurar objetos, registrar perdas ou itens encontrados. |
+| Ponto de guarda | Portaria, biblioteca ou secretaria que guarda o objeto | Confirmar a entrega, guardar fisicamente o objeto. |
+| Administrador | Coordenador de curso | Responsável por gerenciar as categorias da plataforma, moderar registros e lidar com itens expirados. |
 ## 4. Requisitos funcionais
 Formato: código, nome, descrição, ator, prioridade e critérios de aceitação.
 ### RF01: Cadastrar objeto encontrado
