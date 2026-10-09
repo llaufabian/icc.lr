@@ -1,4 +1,15 @@
-# Sistema de Achados e Perdidos - UFRPE
+# Sistema de Achados e Perdidos UFRPE: Documento de Requisitos
+> Atividade prática de Levantamento de Requisitos (ICC / UFRPE).
+> Atividade de prática: não é entregue e não vale nota.
+## 1. Equipe
+| Nome | Curso |
+|------|-------|
+| Matheus | Ciência da Computação |
+| Giovanna | Ciência da Computação |
+| Jânio | Ciência da Computação |
+| Francielly | Ciência da Computação |
+| Jamilly | Ciência da Computação |
+| Laura | Ciência da Computação |
 
 ## Visão geral
 
