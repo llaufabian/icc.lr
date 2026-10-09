@@ -15,9 +15,10 @@
 **Problema:** Todos os dias, objetos perdidos no campus da UFRPE, das mais diversas naturezas, ficam espalhados entre
 portarias, secretarias e grupos de mensagem, e raramente voltam ao dono.
 
-**Solução proposta:** Por isso, com a orientação do nosso professor, e com os materiais complementares disponíveis [aqui](https://yokoapps.com.br/computacao), deicidimos fazer varias coisas legais :3
+**Solução proposta:** Um sistema centralizado de Achados e Perdidos da UFRPE onde a comunidade acadêmica pode registrar itens encontrados e buscar por pertences perdidos, conectando os pontos de guarda aos dono, com os materiais complementares disponíveis [aqui](https://yokoapps.com.br/computacao).
 
-**Escopo:** <o que o sistema faz e o que ele NÃO faz. Ex.: não faz entregas>
+**Escopo:** O sistema gerencia o registro, a busca e a notificação de itens perdidos e encontrados. O sistema não faz entregas ou transporte físico dos objetos.
+
 ## 3. Atores (usuários do sistema)
 | Ator | Descrição | O que precisa fazer |
 |------|-----------|---------------------|
