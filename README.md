@@ -1,6 +1,6 @@
 # Sistema de Achados e Perdidos UFRPE: Documento de Requisitos
 > Atividade prática de Levantamento de Requisitos (ICC / UFRPE).
-> Atividade de prática: não é entregue e não vale nota.
+
 ## 1. Equipe
 | Nome | Curso |
 |------|-------|
