@@ -77,6 +77,6 @@
 
 ## Dúvidas em aberto
 
-* Quem pode acessar a aplicação: será restrito apenas à comunidade UFRPE ou o público em geral poderá visualizar os itens?
-* Os objetos ficarão guardados centralizados em um só lugar ou permanecerão em vários pontos de coleta pelo campus?
-* Qual será o protocolo de validação se dois usuários reivindicarem a propriedade do mesmo objeto genérico?
+[] Quem pode acessar a aplicação: será restrito apenas à comunidade UFRPE ou o público em geral poderá visualizar os itens?
+[] Os objetos ficarão guardados centralizados em um só lugar ou permanecerão em vários pontos de coleta pelo campus?
+[] Qual será o protocolo de validação se dois usuários reivindicarem a propriedade do mesmo objeto genérico?
